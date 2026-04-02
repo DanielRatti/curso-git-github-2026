@@ -3,5 +3,5 @@
 
 
 Inicio no mundo da analise de dados começando com os fundamentos básicos de Git e GitHub.
-TESTE CURSOR
 
+Commit teste do cursor
