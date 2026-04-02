@@ -41,3 +41,7 @@
 13. git branch -D <nova_branch>
 
 ---------------------------------------------
+
+Daniel Pinheiro Ratti
+
+testes de Git e Github
