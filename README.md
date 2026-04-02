@@ -41,7 +41,11 @@
 13. git branch -D <nova_branch>
 
 ---------------------------------------------
+## 📌 Sobre
+
+Este projeto tem como objetivo simular um ambiente de desenvolvimento com boas práticas de versionamento, incluindo uso de branches, pull requests e commits organizados.
 
 Daniel Pinheiro Ratti
 
-testes de Git e Github
+
+-------------------------------------------------
