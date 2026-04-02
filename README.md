@@ -39,3 +39,12 @@
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+
+
+--------------------------------
+
+git init .           -> Cria um repo git na pasta atual
+git status           -> Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo -> Adiciona arquivo para ser commitado
+git commit -m "msg"  -> Faz commit do que estava para ser commitado 
+git log              -> Mostra todo o histórico de commit
